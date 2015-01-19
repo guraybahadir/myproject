@@ -1,0 +1,10 @@
+I will explain this this project ,firstly you can use this project on market system .
+This project contains some objects , that are    music cd, bottle of perfume, headache_pills ,chocolate and book.
+We have to apply basic sales taxes and imported sales taxes on objects.
+we never  use basic sales taxes on   include food ,health objects and book 
+Basic sales tax apply 10 percent of the product
+Imported sales tax apply 5 percent of the product
+We use imported sales  taxes all object but if user want to imported sales taxes some element contains basic sales taxes but some objects not contain basic sales taxes 
+For example  chocolate has no basic sales tax but perfume contains basic sales taxes and imported sales taxes
+İn my project has 4 class , BasicSalestax class contain only calculate basic sales taxes ,Importduty class will calculate only imported sales taxes,ı will calculate basic amd ımported sales taxes on BasicANDImported class
+ 
